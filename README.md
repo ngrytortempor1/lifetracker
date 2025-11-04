@@ -80,4 +80,4 @@ LifeTracker は OSS ですが、以下の有償サポートを提供予定です
 
 ---
 
-開発者: fumih (`C:\Users\fumih\Desktop\lifetracker V1\LifeTracker`)
+開発者: 私とGPT5-codex。ありがとうサム・アルトマン！！！！！！！！
