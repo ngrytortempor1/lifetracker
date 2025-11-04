@@ -72,7 +72,7 @@ LifeTracker/
 ## 応援について
 このプロジェクトは大学生の個人開発として公開しています。ソースを活用したり、気に入っていただけたら GitHub でのスターや寄付で応援してもらえると励みになります。
 
-支援・質問は `kirikirinokirin@gmail.com` まで気軽にどうぞ。今後、寄付ページを準備次第 README に追記します。
+支援・質問は `kirikirinokirin@gmail.com` まで気軽にどうぞ。寄付はこちら → [Ko-fi](https://ko-fi.com/angrytortemporl1)。
 
 ---
 
